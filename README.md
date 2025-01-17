@@ -4,4 +4,5 @@ Setup the IP addresses, PORT numbers, and PATH to the container image file of th
 First execute Source_gNB_Migration
 Then execute Roaming_gNB_Migration
 Observe the timing values
-![alt text](https://github.com/Pasika1987/MEC-SMSF/blob/MEC-SMSF-ER.png?raw=true)
+
+![MEC-SMSF-ER](https://github.com/user-attachments/assets/ba119103-79a5-4bbf-b5f7-166fcda125b2)
